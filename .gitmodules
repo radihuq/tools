@@ -1,0 +1,3 @@
+[submodule "client-templates/react-template"]
+	path = client-templates/react-template
+	url = https://github.com/radihuq/react-template.git
