@@ -1,3 +1,6 @@
 [submodule "client-templates/react-template"]
 	path = client-templates/react-template
 	url = https://github.com/radihuq/react-template.git
+[submodule "server-templates/node-app-template"]
+	path = server-templates/node-app-template
+	url = https://github.com/radihuq/node-app-template.git
