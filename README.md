@@ -7,3 +7,4 @@ Tools & templates to make life easier.
 
 ### Server Templates
 * [Node App Template](https://github.com/radihuq/node-app-template.git)
+* [Node MongoDB App Template](https://github.com/radihuq/node-mongo-app-template.git)
