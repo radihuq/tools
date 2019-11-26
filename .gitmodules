@@ -4,3 +4,6 @@
 [submodule "server-templates/node-app-template"]
 	path = server-templates/node-app-template
 	url = https://github.com/radihuq/node-app-template.git
+[submodule "node-mongo-app-template"]
+	path = node-mongo-app-template
+	url = https://github.com/radihuq/node-mongo-app-template.git
